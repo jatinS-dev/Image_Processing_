@@ -37,7 +37,7 @@ Original image                     |  Rotated Image by Desired Angle
 
 Original image                     |  Rotated Image by Desired Angle
 :-------------------------:|:-------------------------:
-<img width="640" height="450" src="">|<img width="640" height="450" src="">
+<img width="640" height="450" src="">|<img width="640" height="450" src="Kernels/sharpen_output.png">
 
  
  
