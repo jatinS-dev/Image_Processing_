@@ -14,8 +14,8 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 * [Region Of Interest (ROI)](ROI)
 
 ## Task 1
-### Image Rotation
-## Task 2
+### <em> Image Rotation </em>
+## Task 
 ### Applying Kernels
 ### Blurring (With 3 Filters)
 ### Sharpening
