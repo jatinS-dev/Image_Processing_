@@ -28,7 +28,7 @@ Original image                     |  Rotated Image by Desired Angle
 ### <em> Blurring (With 3 Filters) </em>
  Original image  
 :-------------------------: 
-<img width="640" height="450" src="Kernels/filter_imp_img.png">
+<img width="540" height="350" src="Kernels/filter_imp_img.png">
 
  Box Blur             |                Weighted Average Blur             |          Gaussian Blur 
 :-------------------------: |:-------------------------:|:-------------------------: 
