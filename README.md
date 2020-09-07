@@ -8,10 +8,10 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
   * [Sharpening](Kernels)
 * [Edge Detection (4 Types of Edge Detection)](Edge_Detection )
 * [Morphological Transformation](morphological_tranformation)
-  * [Erosion](morphological_transformation)
-  * [Dilation](morphological_transformation)
+  * [Erosion](morphological_tranformation)
+  * [Dilation](morphological_tranformation)
 * [Masking](Masking)
-* [Region Of Interest (ROI)](Region Of Interest (ROI))
+* [Region Of Interest (ROI)](ROI)
 
 
 # Image Rotation
