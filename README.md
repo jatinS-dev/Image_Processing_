@@ -32,7 +32,7 @@ Original image                     |  Rotated Image by Desired Angle
 
  Box Blur             |                Weighted Average Blur             |          Gaussian Blur 
 :-------------------------: |:-------------------------:|:-------------------------: 
-<img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="">|<img width="540" height="350" src="">
+<img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">|<img width="540" height="350" src="">
 ### <em> Sharpening </em>
 ## Task 3
 ### <em> Edge Detection (4 Types of Edge Detection)</em>
