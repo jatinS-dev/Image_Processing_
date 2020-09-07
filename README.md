@@ -16,16 +16,16 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 ## Task 1
 ### <em> Image Rotation </em>
 ## Task 
-### Applying Kernels
-### Blurring (With 3 Filters)
-### Sharpening
+### <em> Applying Kernels </em>
+### <em> Blurring (With 3 Filters) </em>
+### <em> Sharpening </em>
 ## Task 3
-### Edge Detection (4 Types of Edge Detection)
+### <em> Edge Detection (4 Types of Edge Detection)</em>
 ## Task 4
-### Morphological Transformation
-### Erosion
-### Dilation
+### <em>Morphological Transformation </em>
+### <em> Erosion </em>
+### <em> Dilation </em>
 ## Task 5
-### Masking
+### <em> Masking</em>
 ## Task 6
-### Region Of Interest (ROI)
+### <em>Region Of Interest (ROI) </em>
