@@ -14,15 +14,15 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 * [Region Of Interest (ROI)](ROI)
 
 
-# Image Rotation
+## Image Rotation
 
-# Applying Kernels
+## Applying Kernels
 ### Blurring (With 3 Filters)
 ### Sharpening
 
-# Edge Detection (4 Types of Edge Detection)
-# Morphological Transformation
+## Edge Detection (4 Types of Edge Detection)
+## Morphological Transformation
 ### Erosion
 ### Dilation
-# Masking
-# Region Of Interest (ROI)
+## Masking
+## Region Of Interest (ROI)
