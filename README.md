@@ -6,7 +6,7 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 * [Applying Kernels](Applying Kernels)
   * [ Blurring (With 3 Filters)](Blurring (With 3 Filters))
   * [Sharpening](Sharpening)
-* [Edge Detection (4 Types of Edge Detection)](Edge Detection (4 Types of Edge Detection))
+* [Edge Detection (4 Types of Edge Detection)](Edge_Detection )
 * [Morphological Transformation](Morphological Transformation)
   * [Erosion](Erosion)
   * [Dilation](Dilation)
