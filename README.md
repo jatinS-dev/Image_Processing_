@@ -21,7 +21,7 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 
 Original image                     |  Rotated Image by Desired Angle
 :-------------------------:|:-------------------------:
-<img width="640" height="450" src="Image_Rotation/rotate.png">|<img width="640" height="450" src="Image_Rotation/output_img_rot.jpg">
+<img width="640" height="450" src="Image_Rotation/Input_img_rot.jpg">|<img width="640" height="450" src="Image_Rotation/output_img_rot.jpg">
 
 ## Task 2
 ### <em> Applying Kernels </em>
