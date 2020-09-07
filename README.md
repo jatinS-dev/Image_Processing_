@@ -49,11 +49,11 @@ Original image                     |  Sharpened Image
 
 <img width="540" height="350" src="Edge_detection/edge-detection.jpg">
 
-Horizontal Edge             |                Vertical Edge             |          Canny Edge Detection     | Sobbel Edge detection
 
+Horizontal Edge                    |  Vertical Edge           |   Canny Edge Detection         |     Sobbel Edge detection
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img width="540" height="350" src="Edge_detection/h-edge2.png">|<img width="540" height="350" src="Edge_detection/v-edge2.png">|<img width="540" height="350" src="Edge_detection/canny2.png">|<img width="540" height="350" src="Edge_detection/sobel2.png">
 
-<img width="540" height="350" src="Edge_detection/h-edge2.png">|<img width="540" height="350" src="Edge_detection/v-edge2.png">|<img width="540" height="350" src="Edge_detection/canny2.png">|<img width="540" height="350" src="Edge_detection/sobel2.png">|
 
 
 
