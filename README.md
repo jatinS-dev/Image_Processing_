@@ -4,7 +4,7 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 # Table of Content
 * [Image Rotation](Image_Rotation)
 
-> This task is about rotating the Given Input Image in Any Desired angle
+
 * [Applying Kernels](Kernels)
   * [ Blurring (With 3 Filters)](Kernels)
   * [Sharpening](Kernels)
@@ -17,7 +17,8 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 
 ## Task 1
 ### <em> Image Rotation </em>
-## Task 
+> This task is about rotating the Given Input Image in Any Desired angle
+## Task 2
 ### <em> Applying Kernels </em>
 ### <em> Blurring (With 3 Filters) </em>
 ### <em> Sharpening </em>
