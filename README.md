@@ -36,7 +36,7 @@ Original image                     |  Rotated Image by Desired Angle
 ### <em> Sharpening </em>
  Original image          |           Sharpened Image
  
- :-------------------------: |:-------------------------:
+ :-------------------------: |  :-------------------------:
 <img width="540" height="350" src="">|<img width="540" height="350" src=""> 
  
  
