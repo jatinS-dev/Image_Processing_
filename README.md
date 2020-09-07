@@ -55,7 +55,7 @@ Original image                     |  Sharpened Image
 
 Original image                     |  Detected Image of the Required Colour(Blue)
 :-------------------------:|:-------------------------:
-<img width="540" height="350" src="Kernels/filter_original.png">|<img width="540" height="350" src="Kernels/sharpen_output.png">
+<img width="540" height="350" src="Masking/mask.jpg">|<img width="540" height="350" src="Kernels/sharpen_output.png">
 
  
 
