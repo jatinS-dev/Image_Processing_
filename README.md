@@ -18,6 +18,11 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 ## Task 1
 ### <em> Image Rotation </em>
 > This task is about rotating the Given Input Image in Any Desired angle using libraries like PIL, numpy and matplotlib
+
+Original image                     |  Rotated Image by Desired Angle
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="">|<img width="640" height="450" src="">
+
 ## Task 2
 ### <em> Applying Kernels </em>
 ### <em> Blurring (With 3 Filters) </em>
