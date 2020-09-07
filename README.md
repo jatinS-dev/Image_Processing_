@@ -25,6 +25,11 @@ Original image                     |  Rotated Image by Desired Angle
 
 ## Task 2
 ### <em> Applying Kernels </em>
+ Original image  | Box Blur  | Weighted Average Blur | Gaussian Blur 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
+
+
+
 ### <em> Blurring (With 3 Filters) </em>
 ### <em> Sharpening </em>
 ## Task 3
