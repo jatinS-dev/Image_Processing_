@@ -7,7 +7,7 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
   * [ Blurring (With 3 Filters)](Kernels)
   * [Sharpening](Kernels)
 * [Edge Detection (4 Types of Edge Detection)](Edge_Detection )
-* [Morphological Transformation](Morphological Transformation)
+* [Morphological Transformation](Morphological_Transformation)
   * [Erosion](Erosion)
   * [Dilation](Dilation)
 * [Masking](Masking)
