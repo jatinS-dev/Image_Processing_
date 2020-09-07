@@ -8,7 +8,7 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 * [Applying Kernels](Kernels)
   * [ Blurring (With 3 Filters)](Kernels)
   * [Sharpening](Kernels)
-* [Edge Detection (4 Types of Edge Detection)](Edge_Detection )
+* [Edge Detection (4 Types of Edge Detection)](Edge_detection )
 * [Morphological Transformation](morphological_tranformation)
   * [Erosion](morphological_tranformation)
   * [Dilation](morphological_tranformation)
@@ -51,9 +51,9 @@ Original image                     |  Sharpened Image
 
 Horizontal Edge             |                Vertical Edge             |          Canny Edge Detection     | Sobbel Edge detection
 
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 
-<img width="540" height="350" src="Edge_detection/h-edge2.png">|<img width="540" height="350" src="Edge_detection/v-edge2.png">|<img width="540" height="350" src="Edge_detection/canny2.png">|<img width="540" height="350" src="Edge_detection/sobbel2.png">|
+<img width="540" height="350" src="Edge_detection/h-edge2.png">|<img width="540" height="350" src="Edge_detection/v-edge2.png">|<img width="540" height="350" src="Edge_detection/canny2.png">|<img width="540" height="350" src="Edge_detection/sobel2.png">|
 
 
 
