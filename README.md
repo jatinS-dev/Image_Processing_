@@ -47,6 +47,9 @@ Original image                     |  Sharpened Image
 ### <em>Morphological Transformation </em>
 ### <em> Erosion </em>
 ### <em> Dilation </em>
+ Original Image             |                Eroted Image             |          Dilated Image
+:-------------------------: |:-------------------------:|:-------------------------: 
+<img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">|<img width="540" height="350" src="Kernels/gaussian_blur1.png">
 ## Task 5
 ### <em> Masking</em>
 ## Task 6
