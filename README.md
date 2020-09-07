@@ -49,7 +49,7 @@ Original image                     |  Sharpened Image
 ### <em> Dilation </em>
  Original Image             |                Eroted Image             |          Dilated Image
 :-------------------------: |:-------------------------:|:-------------------------: 
-<img width="540" height="350" src="morphological_tranformation/morphological_inp.png">|<img width="540" height="350" src="morphological_tranformation/erosion_op.png">|<img width="540" height="350" src="morphological_tranformation/dilation_op.png">
+<img width="440" height="250" src="morphological_tranformation/morphological_inp.png">|<img width="540" height="350" src="morphological_tranformation/erosion_op.png">|<img width="540" height="350" src="morphological_tranformation/dilation_op.png">
 ## Task 5
 ### <em> Masking</em>
 ## Task 6
