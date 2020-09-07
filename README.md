@@ -30,7 +30,7 @@ Original image                     |  Rotated Image by Desired Angle
 :-------------------------: 
 <img width="640" height="450" src="Kernels/filter_imp_img.png">
 
- Original image  | Box Blur  | Weighted Average Blur | Gaussian Blur 
+ Box Blur             |                Weighted Average Blur             |          Gaussian Blur 
 :-------------------------: |:-------------------------:|:-------------------------: 
 <img width="640" height="450" src="">|<img width="640" height="450" src="">|<img width="640" height="450" src="">
 ### <em> Sharpening </em>
