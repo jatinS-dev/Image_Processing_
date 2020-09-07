@@ -43,6 +43,24 @@ Original image                     |  Sharpened Image
  
 ## Task 3
 ### <em> Edge Detection (4 Types of Edge Detection)</em>
+
+ |                Original Image             | 
+|:-------------------------:|
+
+<img width="540" height="350" src="Masking/mask.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Task 4
 ### <em>Morphological Transformation </em>
 ### <em> Erosion </em>
