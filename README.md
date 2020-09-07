@@ -26,10 +26,13 @@ Original image                     |  Rotated Image by Desired Angle
 ## Task 2
 ### <em> Applying Kernels </em>
 ### <em> Blurring (With 3 Filters) </em>
- Original image  | Box Blur  | Weighted Average Blur | Gaussian Blur 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-<img width="640" height="450" src="Kernels/filter_imp_img.png">|<img width="640" height="450" src="">|<img width="640" height="450" src="">|<img width="640" height="450" src="">
+ Original image  
+:-------------------------: 
+<img width="640" height="450" src="Kernels/filter_imp_img.png">
 
+ Original image  | Box Blur  | Weighted Average Blur | Gaussian Blur 
+:-------------------------: |:-------------------------:|:-------------------------: 
+<img width="640" height="450" src="">|<img width="640" height="450" src="">|<img width="640" height="450" src="">
 ### <em> Sharpening </em>
 ## Task 3
 ### <em> Edge Detection (4 Types of Edge Detection)</em>
