@@ -52,5 +52,14 @@ Original image                     |  Sharpened Image
 <img width="440" height="250" src="morphological_tranformation/morphological_inp.png">|<img width="540" height="350" src="morphological_tranformation/erosion_op.png">|<img width="540" height="350" src="morphological_tranformation/dilation_op.png">
 ## Task 5
 ### <em> Masking</em>
+
+Original image                     |  Detected Image of the Required Colour(Blue)
+:-------------------------:|:-------------------------:
+<img width="540" height="350" src="Kernels/filter_original.png">|<img width="540" height="350" src="Kernels/sharpen_output.png">
+
+ 
+
+
+
 ## Task 6
 ### <em>Region Of Interest (ROI) </em>
