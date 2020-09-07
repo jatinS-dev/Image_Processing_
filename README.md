@@ -4,16 +4,25 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 # Table of Content
 * [Image Rotation]()
 * [Applying Kernels]()
-  * [ Blurring (With 3 Filters)] (Above)
-  * [Sharpenin] (Abobe)
-* [Edge Detection (4 Types of Edge Detection)] (Edge Detection)
-* [Morphological Transformation] (Morphological Transformation)
-  * [Erosion] (Erosion)
-  * [Dilation] (Dilation)
+  * [ Blurring (With 3 Filters)] ()
+  * [Sharpening] (Abobe)
+* [Edge Detection (4 Types of Edge Detection)] ()
+* [Morphological Transformation] ()
+  * [Erosion] ()
+  * [Dilation] ()
 * [Masking] (Masking)
-* [Region Of Interest (ROI)] (Region Of Interest)
+* [Region Of Interest (ROI)] ()
 
 
 # Image Rotation
 
 # Applying Kernels
+### Blurring (With 3 Filters)
+### Sharpening
+
+# Edge Detection (4 Types of Edge Detection)
+# Morphological Transformation
+### Erosion
+### Dilation
+# Masking
+# Region Of Interest (ROI)] ()
