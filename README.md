@@ -35,9 +35,9 @@ Original image                     |  Rotated Image by Desired Angle
 <img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">|<img width="540" height="350" src="Kernels/gaussian_blur1.png">
 ### <em> Sharpening </em>
 
-Original image                     |  Rotated Image by Desired Angle
+Original image                     |  Sharpened Image
 :-------------------------:|:-------------------------:
-<img width="640" height="450" src="">|<img width="640" height="450" src="Kernels/sharpen_output.png">
+<img width="640" height="450" src="Kernels/filter_original.png">|<img width="640" height="450" src="Kernels/sharpen_output.png">
 
  
  
