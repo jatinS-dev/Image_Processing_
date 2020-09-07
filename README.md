@@ -42,7 +42,7 @@ Original Image             |               Sharpened Image
  :-------------------------: |:-------------------------:
  
  
- <img width="540" height="350" src="Kernels/filter_original.png">|<img width="540" height="350" src="">
+ <img width="540" height="350" src="Kernels/filter_original.png">|<img width="540" height="350" src="Kernels/sharpen_output.png">
  
  
  
