@@ -3,7 +3,7 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 
 # Table of Content
 * [Image Rotation](Image_Rotation)
-* [Applying Kernels](Applying Kernels)
+* [Applying Kernels](Kernels)
   * [ Blurring (With 3 Filters)](Blurring (With 3 Filters))
   * [Sharpening](Sharpening)
 * [Edge Detection (4 Types of Edge Detection)](Edge_Detection )
