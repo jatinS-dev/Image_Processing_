@@ -36,13 +36,13 @@ Original image                     |  Rotated Image by Desired Angle
 ### <em> Sharpening </em>
 
 
-Original Image             |               Sharpened Image
+ Original Image       |           Sharpened Image
  
  
-:-------------------------:|:-------------------------:
+:-------------------------: | :-------------------------:
  
  
-<img width="540" height="350" src="Kernels/filter_original.png">|<img width="540" height="350" src="Kernels/sharpen_output.png">
+<img width="540" height="350" src="Kernels/filter_original.png"> | <img width="540" height="350" src="Kernels/sharpen_output.png">
  
  
  
