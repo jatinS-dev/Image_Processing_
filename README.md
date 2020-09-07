@@ -35,12 +35,14 @@ Original image                     |  Rotated Image by Desired Angle
 <img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">|<img width="540" height="350" src="Kernels/gaussian_blur1.png">
 ### <em> Sharpening </em>
 
- Original image          |           Sharpened Image
+
+Original Image             |               Sharpened Image
  
- :-------------------------:|:-------------------------:
  
-<img width="540" height="350" src="">|<img width="540" height="350" src=""> 
+ :-------------------------: |:-------------------------:
  
+ 
+ <img width="540" height="350" src="">|<img width="540" height="350" src="">
  
  
  
