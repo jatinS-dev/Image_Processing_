@@ -28,8 +28,7 @@ Original image                     |  Rotated Image by Desired Angle
 ### <em> Blurring (With 3 Filters) </em>
  Original image  | Box Blur  | Weighted Average Blur | Gaussian Blur 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
-<img width="640" height="450" src="">|<img width="640" height="450" src="">|
-<img width="640" height="450" src="">|<img width="640" height="450" src="">
+<img width="640" height="450" src="">|<img width="640" height="450" src="">|<img width="640" height="450" src="">|<img width="640" height="450" src="">
 
 ### <em> Sharpening </em>
 ## Task 3
