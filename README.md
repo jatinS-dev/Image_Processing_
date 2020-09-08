@@ -81,3 +81,13 @@ Original image                     |  Detected Image of the Required Colour(Blue
 
 ## Task 6
 ### <em>Region Of Interest (ROI) </em>
+
+Original image                     |  Detected Image of the Required Colour(Blue)
+:-------------------------:|:-------------------------:
+<img width="540" height="350" src="">|<img width="540" height="350" src="">
+
+
+
+
+
+
