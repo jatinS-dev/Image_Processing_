@@ -132,7 +132,7 @@ Input Image             |                Image After Erosion            |       
 
  Original Image             |              Output Image            
 :-------------------------: |:-------------------------:|:-------------------------: 
-<img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">
+<img width="540" height="350" src="Masking/mask.jpg">|<img width="540" height="350" src="Masking/masking_output.png">
 
  
 
@@ -145,4 +145,4 @@ Input Image             |                Image After Erosion            |       
 
  Original Image             |               Output Image             
 :-------------------------: |:-------------------------:|:-------------------------: 
-<img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">
+<img width="540" height="350" src="ROI/roi_input.jpg">|<img width="540" height="350" src="ROI/ROI2.jpg">
