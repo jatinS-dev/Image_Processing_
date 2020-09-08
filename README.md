@@ -69,12 +69,11 @@ Original image                     |  Sharpened Image
 |:-------------------------:|
 
 > orizontal edges produce a vertical gradient in the image, and can be enhanced with a vertical gradient detector. A vertical gradient filter can be defined by
-<img width="540" height="350" src="http://www.cis.rit.edu/people/faculty/rhody/images/IMG00012.GIF">
+<img width="40" height="20" src="http://www.cis.rit.edu/people/faculty/rhody/images/IMG00012.GIF">
 
 
 
-|                Vertical Edge Detecion             |
-
+|              Vertical Edge Detecion             | 
 |:-------------------------:|
 
 > Vertical edges can be detected by using a horizontal gradient operator followed by a threshold operation to detect the extreme values of the gradient. The gradient produces > a doublet of extremes, positive-negative or negative-positive, depending on the direction of the transition.
