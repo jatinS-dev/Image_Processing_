@@ -18,6 +18,18 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 ## Task 1
 ### <em> Image Rotation </em>
 > This task is about rotating the Given Input Image in Any Desired angle using libraries like PIL, numpy and matplotlib
+> Rotation of an Image is one of the Image transform operations that can be applied on an Image. By Image rotation, the image is rotated about its center by specified number > of degrees. Image rotation is a specialization of affine transformation
+
+![Rotation Matrix](https://pythontic.com/rotate_transformation_matrix.png)
+
+> Where, θ is the angle of rotation.
+
+
+
+
+
+
+
 
 Original image                     |  Rotated Image by Desired Angle
 :-------------------------:|:-------------------------:
