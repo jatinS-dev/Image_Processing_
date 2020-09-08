@@ -121,7 +121,7 @@ Horizontal Edge                    |  Vertical Edge           |   Canny Edge Det
 
 Input Image             |                Image After Erosion            |          Image After Dilation
 :-------------------------: |:-------------------------:|:-------------------------: 
-<img width="540" height="350" src="morphological_tranformation/morphological_inp.png">|<img width="540" height="350" src="morphological_tranformation/erosion_op.png">|<img width="540" height="350" src="morphological_tranformation/dilation_op.png">
+<img width="440" height="250" src="morphological_tranformation/morphological_inp.png">|<img width="540" height="350" src="morphological_tranformation/erosion_op.png">|<img width="540" height="350" src="morphological_tranformation/dilation_op.png">
 
 
 
@@ -130,8 +130,9 @@ Input Image             |                Image After Erosion            |       
 
 > Masking is the process in which the Desired coloured image is identified in the given Image 
 
- Original Image             |              Output Image            
-:-------------------------: |:-------------------------:|:-------------------------: 
+
+Original image                     |  Output Image
+:-------------------------:|:-------------------------: 
 <img width="540" height="350" src="Masking/mask.jpg">|<img width="540" height="350" src="Masking/masking_output.png">
 
  
@@ -143,6 +144,7 @@ Input Image             |                Image After Erosion            |       
 
 > ROI(Region of Interest) in Image Processing is the process by we can seperate the desired image
 
- Original Image             |               Output Image             
-:-------------------------: |:-------------------------:|:-------------------------: 
+
+Original image                     |    Output Image
+:-------------------------:|:-------------------------:
 <img width="540" height="350" src="ROI/roi_input.jpg">|<img width="540" height="350" src="ROI/ROI2.jpg">
