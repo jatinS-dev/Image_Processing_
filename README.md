@@ -15,8 +15,8 @@ This is the repository for tasks given by SRA VJTI. The following tasks are done
 * [Masking](Masking)
 * [Region Of Interest (ROI)](ROI)
 
-## Task 1
-### <em> Image Rotation </em>
+# Task 1
+## <em> Image Rotation </em>
 > This task is about rotating the Given Input Image in Any Desired angle using libraries like PIL, numpy and matplotlib
 > Rotation of an Image is one of the Image transform operations that can be applied on an Image. By Image rotation, the image is rotated about its center by specified number > of degrees. Image rotation is a specialization of affine transformation
 
@@ -35,9 +35,17 @@ Original image                     |  Rotated Image by Desired Angle
 :-------------------------:|:-------------------------:
 <img width="640" height="450" src="Image_Rotation/Input_img_rot.jpg">|<img width="640" height="450" src="Image_Rotation/output_img_rot.jpg">
 
-## Task 2
-### <em> Applying Kernels </em>
-### <em> Blurring (With 3 Filters) </em>
+# Task 2
+## <em> Applying Kernels </em>
+## <em> Blurring (With 3 Filters) </em>
+
+> Convolution in Image Processing 
+> The term in Image processing Convolution is a misnomer to the term Cross – correlation. The process Is, consider a 6x6 matrix and the Kernel of 3x3 matrix. The resultant matrix will be of (6-3+1 = 4) i. e 4x4 matrix. The Kernel is placed on the Left Top most of the Image and the corresponding algorithms are used.
+
+
+
+
+
  Original image  
 :-------------------------: 
 <img width="540" height="350" src="Kernels/blur_original.jpeg">
@@ -45,7 +53,7 @@ Original image                     |  Rotated Image by Desired Angle
  Box Blur             |                Weighted Average Blur             |          Gaussian Blur 
 :-------------------------: |:-------------------------:|:-------------------------: 
 <img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">|<img width="540" height="350" src="Kernels/gaussian_blur1.png">
-### <em> Sharpening </em>
+## <em> Sharpening </em>
 
 Original image                     |  Sharpened Image
 :-------------------------:|:-------------------------:
@@ -53,8 +61,37 @@ Original image                     |  Sharpened Image
 
  
  
-## Task 3
-### <em> Edge Detection (4 Types of Edge Detection)</em>
+# Task 3
+## <em> Edge Detection (4 Types of Edge Detection)</em>
+
+
+|                Horizontal Edge Detecion             | 
+|:-------------------------:|
+
+> orizontal edges produce a vertical gradient in the image, and can be enhanced with a vertical gradient detector. A vertical gradient filter can be defined by
+<img width="540" height="350" src="http://www.cis.rit.edu/people/faculty/rhody/images/IMG00012.GIF">
+
+
+
+|                Vertical Edge Detecion             |
+
+|:-------------------------:|
+
+> Vertical edges can be detected by using a horizontal gradient operator followed by a threshold operation to detect the extreme values of the gradient. The gradient produces > a doublet of extremes, positive-negative or negative-positive, depending on the direction of the transition.
+
+ |                Canny Edge Detecion             | 
+|:-------------------------:|
+
+> The Canny edge detector is an edge detectionoperator that uses a multi-stage algorithm to detecta wide range of edges in images. It was developed by John F. Canny in 1986. > Canny also produced a computational theory of edge detection explaining why the technique works.
+
+
+|                Sobel Edge Detecion             | 
+|:-------------------------:|
+
+> The Sobel filter is used for edge detection. It works by calculating the gradient of image intensity at each pixel within the image. It finds the direction of the largest . > increase from light to dark and the rate of change in that direction. The result shows how abruptly or smoothly the image changes at each pixel, and therefore how likely it > is that that pixel represents an edge.
+
+
+
 
  |                Original Image             | 
 |:-------------------------:|
@@ -73,15 +110,15 @@ Horizontal Edge                    |  Vertical Edge           |   Canny Edge Det
 
 
 
-## Task 4
-### <em>Morphological Transformation </em>
-### <em> Erosion </em>
-### <em> Dilation </em>
+# Task 4
+## <em>Morphological Transformation </em>
+## <em> Erosion </em>
+## <em> Dilation </em>
  Original Image             |                Eroted Image             |          Dilated Image
 :-------------------------: |:-------------------------:|:-------------------------: 
 <img width="440" height="250" src="morphological_tranformation/morphological_inp.png">|<img width="540" height="350" src="morphological_tranformation/erosion_op.png">|<img width="540" height="350" src="morphological_tranformation/dilation_op.png">
 ## Task 5
-### <em> Masking</em>
+## <em> Masking</em>
 
 Original image                     |  Detected Image of the Required Colour(Blue)
 :-------------------------:|:-------------------------:
@@ -91,8 +128,8 @@ Original image                     |  Detected Image of the Required Colour(Blue
 
 
 
-## Task 6
-### <em>Region Of Interest (ROI) </em>
+# Task 6
+## <em>Region Of Interest (ROI) </em>
 
 Original image                     |      Desired Output
 :-------------------------:|:-------------------------:
