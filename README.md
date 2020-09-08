@@ -69,7 +69,7 @@ Original image                     |  Sharpened Image
 |:-------------------------:|
 
 > orizontal edges produce a vertical gradient in the image, and can be enhanced with a vertical gradient detector. A vertical gradient filter can be defined by
-<img width="40" height="20" src="http://www.cis.rit.edu/people/faculty/rhody/images/IMG00012.GIF">
+<em> B ( j , k  ) = A (j + 1, k ) – A (j – 1 , k) </em>
 
 
 
