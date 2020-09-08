@@ -114,20 +114,25 @@ Horizontal Edge                    |  Vertical Edge           |   Canny Edge Det
 ## <em> Erosion </em>
 
 > Erosion is the process in the Image Processing in which the size of the Image is decreased by the process of Convolution
-## <em> Dilation </em>
 
+
+## <em> Dilation </em>
 > Dilation is the process in the Image Processing in which the size of the Image is increased by the process of Convolution
- Original Image             |                Eroted Image             |          Dilated Image
+
+Input Image             |                Image After Erosion            |          Image After Dilation
 :-------------------------: |:-------------------------:|:-------------------------: 
-<img width="440" height="250" src="morphological_tranformation/morphological_inp.png">|<img width="540" height="350" src="morphological_tranformation/erosion_op.png">|<img width="540" height="350" src="morphological_tranformation/dilation_op.png">
+<img width="540" height="350" src="morphological_tranformation/morphological_inp.png">|<img width="540" height="350" src="morphological_tranformation/erosion_op.png">|<img width="540" height="350" src="morphological_tranformation/dilation_op.png">
+
+
+
 ## Task 5
 ## <em> Masking</em>
 
 > Masking is the process in which the Desired coloured image is identified in the given Image 
 
-Original image                     |  Detected Image of the Required Colour(Blue)
-:-------------------------:|:-------------------------:
-<img width="540" height="350" src="Masking/mask.jpg">|<img width="540" height="350" src="Masking/masking_output.png">
+ Original Image             |              Output Image            
+:-------------------------: |:-------------------------:|:-------------------------: 
+<img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">
 
  
 
@@ -138,12 +143,6 @@ Original image                     |  Detected Image of the Required Colour(Blue
 
 > ROI(Region of Interest) in Image Processing is the process by we can seperate the desired image
 
-Original image                     |      Desired Output
-:-------------------------:|:-------------------------:
-<img width="540" height="350" src="ROI/roi_input.jpg">|<img width="540" height="350" src="ROI/ROI2.jpg">
-
-
-
-
-
-
+ Original Image             |               Output Image             
+:-------------------------: |:-------------------------:|:-------------------------: 
+<img width="540" height="350" src="Kernels/box_blur.png">|<img width="540" height="350" src="Kernels/weighted_average_blur.png">
